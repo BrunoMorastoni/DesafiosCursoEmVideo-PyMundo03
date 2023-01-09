@@ -1,4 +1,4 @@
-# Funções #
+# Funções P1 #
 def selo(txt):
     print('='*50)
     print(txt.center(50))
